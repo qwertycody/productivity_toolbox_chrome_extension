@@ -1,0 +1,16 @@
+{
+    "name": "Productivity Tools",
+    "version": "1.0.0",
+    "description": "Productivity Tools",
+    "manifest_version": 3,
+    "author": "Cody Garrett",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "Productivity Tools"
+    },
+    "permissions": [
+      "clipboardWrite",
+      "activeTab"
+    ]
+  }
+  
